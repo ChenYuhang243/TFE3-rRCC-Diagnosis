@@ -1,4 +1,4 @@
-# Enhancing Diagnosis of TFE3-Rearranged Renal Cell Carcinoma Using Deep Learning Foundation Models on Pathological Images
+# Enhancing diagnosis of TFE3-rearranged renal cell carcinoma with pathology foundation models on whole-slide images
 
 This project utilizes a foundation model-based CLAM ensemble to predict TFE3-rearranged renal cell carcinoma from whole slide images.
 
